@@ -43,6 +43,9 @@ I've worked on more than 30 mobile apps, including well-known projects like:
 ---
 
 ## 📊 GitHub Stats
+![Build Status](https://img.shields.io/github/workflow/status/NurlanBadirkhanov/jetpack-compose-vs-xml/CI)
+![License](https://img.shields.io/github/license/NurlanBadirkhanov/jetpack-compose-vs-xml)
+
 ![](https://komarev.com/ghpvc/?username=NurlanBadirkhanov&label=PROFILE+VIEWS&style=flat-square&color=blue)
 ![GitHub Snake](https://github.com/NurlanBadirkhanov/NurlanBadirkhanov/blob/output/github-contribution-grid-snake.svg)
 <!-- Requires WakaTime account -->
