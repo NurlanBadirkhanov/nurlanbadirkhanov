@@ -43,9 +43,29 @@ I've worked on more than 30 mobile apps, including well-known projects like:
 ---
 
 ## 📊 GitHub Stats
+![](https://komarev.com/ghpvc/?username=NurlanBadirkhanov&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![GitHub Snake](https://github.com/NurlanBadirkhanov/NurlanBadirkhanov/blob/output/github-contribution-grid-snake.svg)
+<!-- Requires WakaTime account -->
+<!-- Replace `NurlanBadirkhanov` with your actual WakaTime username -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=NurlanBadirkhanov)](https://wakatime.com/@NurlanBadirkhanov)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NurlanBadirkhanov&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurlanbadirkhanov&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurlanbadirkhanov&layout=compact&theme=radical)
+
+![Nurlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurlanBadirkhanov&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NurlanBadirkhanov&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurlanBadirkhanov&layout=compact&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurlanbadirkhanov/)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@badirkhanli)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/nurlanbadirkhanov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bedirxaanov_n/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nurlanbadirkhanov)
+
+---
+
+## ✍️ Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 
