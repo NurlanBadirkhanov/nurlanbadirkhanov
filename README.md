@@ -18,11 +18,10 @@ I've worked on more than 30 mobile apps, including well-known projects like:
 
 ## 🚀 Tech Stack
 
-- **Languages:** Kotlin, Swift, PHP, JavaScript  
+- **Languages:** Kotlin, Swift, Java,Python,Jetpack Compose  
 - **Mobile:** Jetpack Compose, SwiftUI, Android SDK  
-- **Backend:** Firebase (Auth, Firestore, Realtime DB), PHP 5.6/8  
-- **Databases:** MySQL, Firebase  
-- **Legacy Stack:** HTML, CSS, jQuery, Socket.IO  
+- **Backend:** Firebase (Auth, Firestore, Realtime DB)
+- **Databases:** Firebase  
 - **Tools:** Git, Android Studio, Xcode, VS Code, Postman
 
 ---
