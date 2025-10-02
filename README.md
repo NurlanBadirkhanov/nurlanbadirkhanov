@@ -7,7 +7,7 @@ With over 3 years of experience, I specialize in building Android and iOS apps u
 
 I've worked on more than 30 mobile apps, including well-known projects like:
 
-- [Technanod](https://www.linkedin.com/company/technanod/)
+- [Teсnanod](https://www.linkedin.com/company/tecnanod/)
 - [Earnod](https://apkpure.com/earnod-%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%BA-%D0%BD%D0%B0-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5/com.ilnodstidio.zarabotok)
 - [P1ONEER Market](https://play.google.com/store/apps/details?id=com.p1oneer.p1oneer&hl=az)
 - [EVERA](https://play.google.com/store/apps/details?id=com.everammc.everaaz&hl=az)
