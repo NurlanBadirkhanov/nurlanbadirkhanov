@@ -13,6 +13,7 @@ I've worked on more than 30 mobile apps, including well-known projects like:
 - [EVERA](https://play.google.com/store/apps/details?id=com.everammc.everaaz&hl=az)
 
   - [NOD.az ]
+    (https://nod.az)
 
 
 ---
